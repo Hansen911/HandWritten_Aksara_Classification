@@ -89,8 +89,8 @@ _________________________________________________________________
 
 
 Evaluation
-  
 
-  
+![plot acc and val acc](https://user-images.githubusercontent.com/106476815/180648567-5635fd26-3029-4b01-a665-aaf4426e5338.png)
+![plot loss](https://user-images.githubusercontent.com/106476815/180648570-425c8f9b-1add-47ff-a513-d1b74a0036ff.png)
 
-        Dari hasil plot setelah model dilatih kita melihat bahwa hasil model masih harus ditingkatkan kembali karena validation accuracy dengan training accuracy masih terjadi jarak (gap) yang sangat jauh. Jika dilihat dari training loss dan validation loss pada plot juga butuh tuning up agar model lebih baik.
+Dari hasil plot setelah model dilatih kita melihat bahwa hasil model masih harus ditingkatkan kembali karena validation accuracy dengan training accuracy masih terjadi jarak (gap) yang sangat jauh. Jika dilihat dari training loss dan validation loss pada plot juga butuh tuning up agar model lebih baik.
