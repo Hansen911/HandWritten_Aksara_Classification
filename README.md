@@ -14,8 +14,11 @@
 #Data Understanding
 Data yang digunakan berasal dari https://github.com/ridhomujizat/AksaraSundaCNN/.
 Data Loading: jika kita melihat pada data lokal, terdapat 18 kelas masing-masing pada data train dan test.
+
 ![gambar fitur](https://user-images.githubusercontent.com/106476815/181236794-5a64370f-263c-4633-a23f-a90f0d87b3db.png)
-((354, 354), array([[1., 1., 1., ..., 1., 1., 1.],
+
+((354, 354),
+array([[1., 1., 1., ..., 1., 1., 1.],
         [1., 1., 1., ..., 1., 1., 1.],
         [1., 1., 1., ..., 1., 1., 1.],
         ...,
@@ -42,3 +45,4 @@ Pada gambar awal, gambar berukuran 354x354 dan hitam putih. Fitur ekstrak ini me
 
 Dari hasil plot setelah model dilatih kita melihat bahwa hasil model masih harus ditingkatkan kembali karena validation accuracy dengan training accuracy masih terjadi jarak (gap) yang sangat jauh. Jika dilihat dari training loss dan validation loss pada plot juga butuh tuning up agar model lebih baik.
 loss: 0.0183 - accuracy: 0.9955 - val_loss: 1.5512 - val_accuracy: 0.6846
+loss adalah nilai yang didapat dari hasil model melakukan training menggunakan data training sedangkan val_loss adalah nilai yang didapat dari hasil model menggunakan data validasi. Keduanya memiliki arti yang sama yaitu menilai seberapa buruk model memprediksi suatu hal, semakin baik model maka nilai loss dan val_loss akan bernilai makin kecil atau bahkan mendekati 0.  
