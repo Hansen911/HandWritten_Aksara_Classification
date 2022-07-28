@@ -34,6 +34,8 @@ ta = gambar aksara sunda huruf ta,
 wa = gambar aksara sunda huruf wa,
 ya = gambar aksara sunda huruf ya,
 
+berikut adalah contoh gambar aksara sunda huruf ba
+
 ![gambar fitur](https://user-images.githubusercontent.com/106476815/181236794-5a64370f-263c-4633-a23f-a90f0d87b3db.png)
 
 ((354, 354),
