@@ -16,6 +16,24 @@ Data yang digunakan berasal dari https://github.com/ridhomujizat/AksaraSundaCNN/
 Data Loading: jika kita melihat pada data lokal, terdapat 18 kelas masing-masing pada data train dan test.
 
 ![gambar fitur](https://user-images.githubusercontent.com/106476815/181236794-5a64370f-263c-4633-a23f-a90f0d87b3db.png)
+ba
+ca
+da
+ga
+ha
+ja
+ka
+la  
+ma
+na
+nga
+nya
+pa
+ra 
+sa
+ta
+wa 
+ya
 
 ((354, 354),
 array([[1., 1., 1., ..., 1., 1., 1.],
