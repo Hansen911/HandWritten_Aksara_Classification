@@ -116,3 +116,8 @@ plt.title('Training and validation loss')
 plt.legend()
 
 plt.show()
+
+"""Plot metrics"""
+
+plt.plot(history.history['accuracy'])
+plt.show()
