@@ -15,24 +15,24 @@ Pesatnya perkembangan teknologi mencakup banyak bidang yang saling berhubungan s
 Data yang digunakan berasal dari https://github.com/ridhomujizat/AksaraSundaCNN/.
 Data Loading: jika kita melihat pada data lokal, terdapat 18 kelas masing-masing pada data train dan test.
 18 kelas tersebut terdiri dari:
-ba = gambar aksara sunda huruf ba
-ca = gambar aksara sunda huruf ca
-da = gambar aksara sunda huruf da
-ga = gambar aksara sunda huruf ga
-ha = gambar aksara sunda huruf ha
-ja = gambar aksara sunda huruf ja
-ka = gambar aksara sunda huruf ka
-la = gambar aksara sunda huruf la
-ma = gambar aksara sunda huruf ma
-na = gambar aksara sunda huruf na
-nga = gambar aksara sunda huruf nga
-nya = gambar aksara sunda huruf nya
-pa = gambar aksara sunda huruf pa
-ra = gambar aksara sunda huruf ra
-sa = gambar aksara sunda huruf sa
-ta = gambar aksara sunda huruf ta
-wa = gambar aksara sunda huruf wa
-ya = gambar aksara sunda huruf ya
+ba = gambar aksara sunda huruf ba,
+ca = gambar aksara sunda huruf ca,
+da = gambar aksara sunda huruf da,
+ga = gambar aksara sunda huruf ga,
+ha = gambar aksara sunda huruf ha,
+ja = gambar aksara sunda huruf ja,
+ka = gambar aksara sunda huruf ka,
+la = gambar aksara sunda huruf la,
+ma = gambar aksara sunda huruf ma,
+na = gambar aksara sunda huruf na,
+nga = gambar aksara sunda huruf nga,
+nya = gambar aksara sunda huruf nya,
+pa = gambar aksara sunda huruf pa,
+ra = gambar aksara sunda huruf ra,
+sa = gambar aksara sunda huruf sa,
+ta = gambar aksara sunda huruf ta,
+wa = gambar aksara sunda huruf wa,
+ya = gambar aksara sunda huruf ya,
 
 ![gambar fitur](https://user-images.githubusercontent.com/106476815/181236794-5a64370f-263c-4633-a23f-a90f0d87b3db.png)
 
