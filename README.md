@@ -76,11 +76,17 @@ berikut adalah contoh gambar aksara sunda huruf ba yang akan kita ubah kedalam b
 
 ((354, 354),
 array([[1., 1., 1., ..., 1., 1., 1.],
+
         [1., 1., 1., ..., 1., 1., 1.],
+        
         [1., 1., 1., ..., 1., 1., 1.],
+        
         ...,
+        
         [1., 1., 1., ..., 1., 1., 1.],
+        
         [1., 1., 1., ..., 1., 1., 1.],
+        
         [1., 1., 1., ..., 1., 1., 1.]]))
         
 Pada gambar awal, gambar berukuran 354x354 dan hitam putih. Fitur ekstrak ini menghasilkan sebuah angka dimana setiap angka merepresentasikan sebuah warna.
