@@ -17,57 +17,75 @@ Data Loading: jika kita melihat pada data lokal, terdapat 18 kelas masing-masing
 18 kelas tersebut terdiri dari:
 
 ![ra](https://user-images.githubusercontent.com/106476815/181581155-23cc3a81-8d32-43e6-add9-7f78a76ce4c5.png)
+
 ra
 
 ![sa](https://user-images.githubusercontent.com/106476815/181581162-8420022e-eeeb-4649-ba7b-48f2cc4bcd82.png)
+
 sa
 
 ![ta](https://user-images.githubusercontent.com/106476815/181581167-558560d1-2327-43fa-89a0-3f96303b97b5.png)
+
 ta
 
 ![wa](https://user-images.githubusercontent.com/106476815/181581169-3a509c79-ca07-4478-8916-e02c8e8e06eb.png)
+
 wa
 
 ![ya](https://user-images.githubusercontent.com/106476815/181581171-8a4c77bc-9fe2-49de-a980-9d61788b5b4d.png)
+
 ya
 
 ![ba](https://user-images.githubusercontent.com/106476815/181581175-65c0637d-c0e2-4fea-b689-3c581fc363da.png)
+
 ba
 
 ![ca](https://user-images.githubusercontent.com/106476815/181581176-1d3ed2f3-f31d-4ffa-81b3-83fc26e48531.png)
+
 ca
 
 ![da](https://user-images.githubusercontent.com/106476815/181581182-ef9c2115-eef3-412b-a696-ec99866486f6.png)
+
 da
 
 ![ga](https://user-images.githubusercontent.com/106476815/181581185-06faa381-8e86-466c-849f-51258f39c3c5.png)
+
 ga
 
 ![ha](https://user-images.githubusercontent.com/106476815/181581186-ba185280-8837-45b7-a2ec-c3154a70cbae.png)
+
 ha
 
 ![ja](https://user-images.githubusercontent.com/106476815/181581189-d7a19e9b-8de8-4025-9413-d1929b0e9664.png)
+
 ja
 
 ![ka](https://user-images.githubusercontent.com/106476815/181581191-d4df8c00-5037-4abc-a694-0215029e2b0e.png)
+
 ka
 
 ![la](https://user-images.githubusercontent.com/106476815/181581193-7a88a41f-d2ae-48b2-9794-55ab0260db02.png)
+
 la
 
 ![ma](https://user-images.githubusercontent.com/106476815/181581197-76fa3ddc-f653-456d-b4b9-d712b7101722.png)
+
 ma
 
 ![na](https://user-images.githubusercontent.com/106476815/181581198-c31017b4-cae3-48f9-a0f4-4bd458269ca3.png)
+
 na
 
 ![nga](https://user-images.githubusercontent.com/106476815/181581202-b3daa361-4097-4328-bdbe-81535f45cf4d.png)
+
 nga
 
 ![nya](https://user-images.githubusercontent.com/106476815/181581207-877db8a5-436d-4a4e-85bb-5be7f8da0663.png)
+
 nya
 
 ![pa](https://user-images.githubusercontent.com/106476815/181581209-55969aa5-2f3d-4222-8b06-afa946a98bbf.png)
+
 pa
 
 berikut adalah contoh gambar aksara sunda huruf ba yang akan kita ubah kedalam bentuk tensor supaya data dapat dikenali oleh model. Dengan kita mengubahnya kedalam tensor, kita juga dapat mengekstraksi fitur yang ada pada gambar.
@@ -77,17 +95,17 @@ berikut adalah contoh gambar aksara sunda huruf ba yang akan kita ubah kedalam b
 ((354, 354),
 array([[1., 1., 1., ..., 1., 1., 1.],
 
-        [1., 1., 1., ..., 1., 1., 1.],
+[1., 1., 1., ..., 1., 1., 1.],
         
-        [1., 1., 1., ..., 1., 1., 1.],
+[1., 1., 1., ..., 1., 1., 1.],
         
-        ...,
+...,
         
-        [1., 1., 1., ..., 1., 1., 1.],
+[1., 1., 1., ..., 1., 1., 1.],
         
-        [1., 1., 1., ..., 1., 1., 1.],
+[1., 1., 1., ..., 1., 1., 1.],
         
-        [1., 1., 1., ..., 1., 1., 1.]]))
+[1., 1., 1., ..., 1., 1., 1.]]))
         
 Pada gambar awal, gambar berukuran 354x354 dan hitam putih. Fitur ekstrak ini menghasilkan sebuah angka dimana setiap angka merepresentasikan sebuah warna.
 
