@@ -61,12 +61,15 @@ Pada awal layer, kita menggunakan conv2D untuk membentuk lapisan konvolusi karen
 
 ## Evaluation
 
-![plot acc and val acc](https://user-images.githubusercontent.com/106476815/180648567-5635fd26-3029-4b01-a665-aaf4426e5338.png)
-![plot loss](https://user-images.githubusercontent.com/106476815/180648570-425c8f9b-1add-47ff-a513-d1b74a0036ff.png)
+![acc](https://user-images.githubusercontent.com/106476815/181580647-3aa65748-9514-4764-9b2f-71c43ae9e660.png)
+![loss](https://user-images.githubusercontent.com/106476815/181580636-831aaab5-6d09-4519-a4c0-422c95f0db15.png)
 
 loss: 0.0183 - accuracy: 0.9955 - val_loss: 1.5512 - val_accuracy: 0.6846
 loss adalah nilai yang didapat dari hasil model melakukan training menggunakan data training sedangkan val_loss adalah nilai yang didapat dari hasil model menggunakan data validasi. Keduanya memiliki arti yang sama yaitu menilai seberapa buruk model memprediksi suatu hal, semakin baik model maka nilai loss dan val_loss akan bernilai makin kecil atau bahkan mendekati 0.  
 accuracy merupakan nilai dari hasil model yang dilatih menggunakan data latih, sedangkan val_accuracy merupakan nilai dari hasil model memprediksi sampel yang tidak ikut terlatih atau kita bisa sebut seberapa besar akurasi model jika digunakan pada kasus nyata.
+
+![metric](https://user-images.githubusercontent.com/106476815/181580642-909dc65a-b98c-4b11-afcb-7112a78aed4b.png)
+
 Pada klasifikasi gambar kita menggunakan nilai accuracy sebagai metrik, kita mendapatkan hasil yang tinggi. Sehingga model dapat dikatakan sudah bagus, tetapi kita bisa lihat dan bandingkan accuracy dengan val_accuracy yang cukup jauh berbeda, begitu juga dengan nilai val_loss yang jika dilihat pada grafik belum monoton turun, dari sini bisa kita simpulkan bahwa model masih dapat kita tingkatkan untuk menjadi lebih baik.
 Dengan model ini, pelajar dapat mengetahui apakah tulisan aksara yang ia tulis sudah tepat atau belum.
 
