@@ -16,7 +16,7 @@ Data yang digunakan berasal dari https://github.com/ridhomujizat/AksaraSundaCNN/
 Data Loading: jika kita melihat pada data lokal, terdapat 18 kelas masing-masing pada data train dan test.
 
 ![gambar fitur](https://user-images.githubusercontent.com/106476815/181236794-5a64370f-263c-4633-a23f-a90f0d87b3db.png)
-!(https://raw.githubusercontent.com/ridhomujizat/AksaraSundaCNN/master/.datasetAsli/ba/ba.0.jpg)
+
 ba
 ca
 da
