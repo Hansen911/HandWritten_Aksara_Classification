@@ -130,7 +130,7 @@ accuracy merupakan nilai dari hasil model yang dilatih menggunakan data latih, s
 
 ![metric](https://user-images.githubusercontent.com/106476815/181580642-909dc65a-b98c-4b11-afcb-7112a78aed4b.png)
 
-Pada klasifikasi gambar kita menggunakan nilai accuracy sebagai metrik, kita mendapatkan hasil yang tinggi.
+Pada klasifikasi gambar kita menggunakan nilai accuracy sebagai metrik, kita mendapatkan hasil yang tinggi. 
 Dengan model ini, pelajar dapat mengetahui apakah tulisan aksara yang ia tulis sudah tepat atau belum.
 
 ## References
