@@ -1,14 +1,14 @@
 ## Laporan-Proyek-Machine-Learning-Hansen-Jonathan
 
 # Domain Proyek
-        Pesatnya perkembangan teknologi mencakup banyak bidang yang saling berhubungan satu sama lain terutama dalam bidang pendidikan dimana ketika suatu teknologi diterapkan proses pembelajaran tidak hanya sebatas antara guru dan siswa tetapi siswa dapat mengakses pembelajaran melalui berbagai media. Kurangnya sistem pembelajaran yang masih menggunakan metode tradisional sehingga menimbulkan kesan bosan. Dari permasalahan yang terjadi menyebabkan kurangnya pengetahuan anak-anak tentang aksara sunda, karena kurangnya pengetahuan dalam mengenal aksara sunda dapat mengakibatkan hilangnya bahasa daerah di Indonesia karena terlalu banyaknya unsur bahasa dan budaya dari luar[1].Sejak 1991, Indonesia menyatakan mempunyai 718 bahasa lokal. Badan Pengembangan dan Pembinaan Bahasa melakukan studi terhadap 94 bahasa lokal untuk melihat kehidupan dari bahasa tersebut. Ternyata sudah terdapat 5 bahasa yang punah dan sisanya juga sudah mulai sedikit. Hal ini membuat Nadiem Makarim selaku Menteri Pendidikan Indonesia menyatakan bahwa bahasa daerah di Indonesia terancam punah. Karena banyak orang sudah melupakan bahasa-bahasa daerah terlebih penulisan-penulisan aksara. Sehingga melalui proyek ini, diharapkan orang-orang bisa menulis dan belajar sendiri aksara Sunda dengan tepat.
+Pesatnya perkembangan teknologi mencakup banyak bidang yang saling berhubungan satu sama lain terutama dalam bidang pendidikan dimana ketika suatu teknologi diterapkan proses pembelajaran tidak hanya sebatas antara guru dan siswa tetapi siswa dapat mengakses pembelajaran melalui berbagai media. Kurangnya sistem pembelajaran yang masih menggunakan metode tradisional sehingga menimbulkan kesan bosan. Dari permasalahan yang terjadi menyebabkan kurangnya pengetahuan anak-anak tentang aksara sunda, karena kurangnya pengetahuan dalam mengenal aksara sunda dapat mengakibatkan hilangnya bahasa daerah di Indonesia karena terlalu banyaknya unsur bahasa dan budaya dari luar[1].Sejak 1991, Indonesia menyatakan mempunyai 718 bahasa lokal. Badan Pengembangan dan Pembinaan Bahasa melakukan studi terhadap 94 bahasa lokal untuk melihat kehidupan dari bahasa tersebut. Ternyata sudah terdapat 5 bahasa yang punah dan sisanya juga sudah mulai sedikit. Hal ini membuat Nadiem Makarim selaku Menteri Pendidikan Indonesia menyatakan bahwa bahasa daerah di Indonesia terancam punah. Karena banyak orang sudah melupakan bahasa-bahasa daerah terlebih penulisan-penulisan aksara. Sehingga melalui proyek ini, diharapkan orang-orang bisa menulis dan belajar sendiri aksara Sunda dengan tepat.
 
 
 # Business Understanding
 1. Problem Statement:
    Bagaimana supaya orang dapat menulis dan belajar sendiri aksara Sunda dengan tepat?
 2. Goals:
-   Menciptakan machine learning model yang mampu melakukan klasifikasi penulisan aksara Sunda dengan tepat
+   Menciptakan machine learning model yang mampu melakukan klasifikasi penulisan aksara Sunda dengan tepat. Dengan klasifikasi tulisan yang pelajar tulis, ia dapat memahami apakah yang ia tulis sudah benar atau belum. Sehingga dengan hal ini, pelajar dapat belajar sendiri penulisan aksara Sunda dengan tepat
 
 
 # Data Understanding
